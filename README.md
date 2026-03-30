@@ -1,9 +1,9 @@
 # 🚀 Hi, I'm Wong Kang Bin! 
 ### Y3 Applied AI & Analytics Student @ NYP | Aspiring Data Scientist /  Analyst
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kangbin2005/KangBin2005/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kangbin2005/KangBin2005/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kangbin2005/Kangbin2005/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KangBin2005/KangBin2005/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KangBin2005/KangBin2005/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kangbin2005/KangBin2005/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
