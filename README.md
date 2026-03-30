@@ -28,7 +28,7 @@ I am a Data Scientist in the making, dedicated to bridging the gap between **com
 * **Tech:** Azure OpenAI, LangChain, Python.
 * **Impact:** Integrated LLMs to provide real-time, personalized financial advice based on user-driven gameplay scenarios.
 
-#### 🏥 [Chronic Disease Prediction Engine](https://github.com/KangBin2005/Diabetes_Prediction)
+#### 🏥 [Chronic Disease Prediction System](https://github.com/KangBin2005/Diabetes_Prediction)
 *Predictive modeling for medical screening optimization.*
 * **Tech:** Scikit-Learn (AdaBoost, Gradient Boosting), SMOTE.
 * **Impact:** Handled significant class imbalance to achieve **65% recall**, prioritizing the identification of high-risk patients.
