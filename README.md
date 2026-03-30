@@ -34,7 +34,7 @@ I am a Data Scientist in the making, dedicated to bridging the gap between **com
 * **Impact:** Handled significant class imbalance to achieve **65% recall**, prioritizing the identification of high-risk patients.
 
 #### 🏺 [Text and Social Analytics Project](https://github.com/KangBin2005/TSAP)
-*Sentiment analysis for retail market research.*
+*Sentiment analysis for vacumn flask bottle reviews from various e-commerce platforms*
 * **Tech:** SeleniumBase, NLTK (Bigrams/Trigrams), Python.
 * **Impact:** Automated data extraction from Target and performed granular sentiment mapping to identify post-purchase satisfaction gaps.
 
