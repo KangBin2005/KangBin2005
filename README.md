@@ -9,7 +9,7 @@
 
 I am a final year student at **Nanyang Polytechnic**, specializing in **Applied AI and Analytics**. I am dedicated to bridging the gap between **complex data architecture** and **executive strategy**. 
 
-I specialize in building end-to-end ML pipelines, high-performance web scraping, and AI-driven simulations. Passionate about uncovering insights and making predictions, I leverage Python, SQL, and Power BI to solve real-world challenges across the Fintech and E-commerce sectors.
+I specialize in building end-to-end ML pipelines, high-performance web scraping, and AI-driven simulations. Passionate about uncovering insights and making predictions, I leverage Python, SQL, and Power BI to solve real-world challenges across different sectors.
 
 ---
 
