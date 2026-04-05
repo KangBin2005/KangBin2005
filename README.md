@@ -70,5 +70,3 @@ I specialize in building end-to-end ML pipelines, high-performance web scraping,
 
 ### 📫 Let's Connect!
 * **LinkedIn:** [linkedin.com/in/wong-kang-bin](https://www.linkedin.com/in/wong-kang-bin-9018a9253/)
-* **Portfolio:** [wongkangbin.wixsite.com/kb_portfolio](https://wongkangbin.wixsite.com/kb_portfolio) 
-* **Fun Fact:** I use data analytics to optimize my **Clash Royale** deck win rates! 👑
