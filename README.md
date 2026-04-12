@@ -70,6 +70,5 @@ I specialize in building end-to-end ML pipelines, high-performance web scraping,
 ---
 
 ### 📫 Let's Connect!
-* **Portfolio:** [wongkangbin.wixsite.com/kb_portfolio](https://wongkangbin.wixsite.com/kb_portfolio)
 * **LinkedIn:** [linkedin.com/in/wong-kang-bin](https://www.linkedin.com/in/wong-kang-bin-9018a9253/)
 * **Email:** [wongkangbin@gmail.com](mailto:wongkangbin@gmail.com)
