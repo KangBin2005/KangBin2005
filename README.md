@@ -8,9 +8,9 @@
 <a href="mailto:wongkangbin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-I am a final year student at **Nanyang Polytechnic**, specializing in **Applied AI and Analytics**. I am dedicated to bridging the gap between **complex data architecture** and **executive strategy**. 
+🎓 Final-year Applied AI & Analytics student at Nanyang Polytechnic with hands-on experience in data engineering, machine learning, LLM fine-tuning, web development, and interactive data visualization.
 
-I specialize in building end-to-end ML pipelines, high-performance web scraping, and AI-driven simulations. Passionate about uncovering insights and making predictions, I leverage Python, SQL, and Power BI to solve real-world challenges across different sectors.
+Passionate about building data-driven solutions that solve real-world problems — from predictive analytics and financial coaching to geospatial dashboards and water quality pipelines
 
 ---
 
