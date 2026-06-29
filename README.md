@@ -83,6 +83,5 @@ Passionate about building data-driven solutions that solve real-world problems â
 ---
 
 ### ðŸ“« Let's Connect!
-- **Portfolio:** [wongkangbin.wixsite.com/kb_portfolio](https://wongkangbin.wixsite.com/kb_portfolio)
 - **LinkedIn:** [linkedin.com/in/wong-kang-bin-9018a9253](https://www.linkedin.com/in/wong-kang-bin-9018a9253/)
 - **Email:** [wongkangbin@gmail.com](mailto:wongkangbin@gmail.com)
