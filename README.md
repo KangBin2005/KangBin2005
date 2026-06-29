@@ -43,7 +43,7 @@ Passionate about building data-driven solutions that solve real-world problems �
 - **Tech:** Azure OpenAI, LangChain, Python, PyGame, scikit-learn, Matplotlib
 - **Impact:** Integrated LLMs to provide real-time, personalized financial advice based on user-driven gameplay scenarios. Built ML model predicting goal achievement with post-game analytics dashboard.
 
-#### 🏦 [AI Budgeting & Financial Literacy Coach](https://github.com/KangBin2005/LLM-Fine-Tuned-Model-VertexAI)
+#### 🏦 [AI Budgeting & Financial Literacy Coach](https://github.com/KangBin2005/LLM-Fine-Tuned-Model-with-Vertex-AI)
 *LLM fine-tuning on Google Vertex AI for financial advisory.*
 - **Tech:** Google Vertex AI, Gemini 2.5 Flash Lite, Gradio, ChromaDB, GCS
 - **Impact:** Fine-tuned Gemini model with supervised fine-tuning (4 epochs optimal). Built Gradio side-by-side evaluation UI comparing fine-tuned vs base model. Implemented RAG pipeline for grounding responses.
@@ -53,7 +53,7 @@ Passionate about building data-driven solutions that solve real-world problems �
 - **Tech:** Snowflake, SQL, Streamlit, Python, scikit-learn, Seaborn
 - **Impact:** Designed Bronze-Silver-Gold architecture processing 80+ PUB parameters. Built Streamlit dashboard with Random Forest model (67.84% accuracy) and WHO compliance monitoring.
 
-#### 🏠 [HDB Resale & Amenity 360° Analytics Dashboard](https://github.com/KangBin2005/D3-HDB-Resale-Dashboard)
+#### 🏠 [HDB Resale & Amenity 360° Analytics Dashboard](https://github.com/KangBin2005/D3.js-HDB-Resale-Price-Analysis-Dashboard)
 *Interactive D3.js geospatial visualization dashboard.*
 - **Tech:** D3.js, JavaScript, HTML5, CSS3, Bootstrap 5, jQuery UI
 - **Impact:** Built map-based dashboard with linked cross-filtering views across 5 visualisations. Added 1km proximity calculations for amenities (MRT, schools, supermarkets).
